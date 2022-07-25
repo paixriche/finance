@@ -1,6 +1,4 @@
-from matplotlib import ticker
 import yfinance as yf
-import matplotlib.pyplot as plt
 import pandas as pd
 
 def get_correct_ticker(ticker):
